@@ -1,6 +1,6 @@
 # rsschool-cv
 
-1. **Vladislav Alexandrovich** 
+1. **EZY** 
 2. * _in7byss@gmail.com_
    * _Allen#2715 Discord_ 
 3. Dedicated Trainee Developer with over 10 days of successul experience in Programming. My main goal is to get extensive knowledge on how JavaScript works.
